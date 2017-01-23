@@ -1,0 +1,7 @@
+.Film {
+  display: flex;
+}
+
+.Film-img {
+  margin-right: 15px;
+}

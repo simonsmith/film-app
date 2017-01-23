@@ -1,0 +1,7 @@
+.ItemFilter {
+  display: flex;
+}
+
+.ItemFilter-label {
+  margin-right: 5px;
+}

@@ -1,0 +1,10 @@
+.App {
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+}
+
+.App-item {
+  margin-bottom: 25px;
+}
